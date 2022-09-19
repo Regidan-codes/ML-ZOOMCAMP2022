@@ -17,3 +17,9 @@
 
 * [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression)
 * [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/02-regression/homework.md)
+
+**3. Machine Learning for Classification**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/03-classification)
+* [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/03-classification/homework.md)
+
