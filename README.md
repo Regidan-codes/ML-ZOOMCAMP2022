@@ -23,3 +23,58 @@
 * [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/03-classification)
 * [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/03-classification/homework.md)
 
+**4. Evaluation Metrics for Classification**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/04-evaluation)
+* [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/cohorts/2022/04-evaluation)
+
+**5. Deploying Machine Learning Models**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/05-deployment)
+* TBA
+
+**5b. Bento ML**
+
+* [Module materials - TBA]()
+* TBA
+
+**6. Decision Trees and Ensemble Learning**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/06-trees)
+* TBA
+
+**7. Midterm Project**
+
+* TBA
+
+**8. Neural Networks and Deep Learning**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/08-deep-learning)
+* TBA
+
+**9. Serverless Deep Learning**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless)
+* TBA
+
+**10. Kubernetes and TensorFlow Serving**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes)
+* TBA
+
+**11. KServe (optional)**
+
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/11-kserve)
+* No homework
+
+**12. Capstone Project**
+
+* TBA
+
+**13. Article**
+
+* TBA
+
+**14. Third project (optional)**
+
+* TBA
