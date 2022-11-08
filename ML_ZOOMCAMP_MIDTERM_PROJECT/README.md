@@ -86,7 +86,7 @@ Earth will experience 11898 solar eclipses during the five millennium period -19
 
 - Uploaded docker image from docker hub to azure container registry
 - Used the model saved in Azure registry to create a web app.
-- You can check the web app here [Azure model deployment](https://solareclipse.azurewebsites.net)
+- You can check the web app below.
 
 
 **MODELS USED**
