@@ -1,0 +1,11 @@
+service : "service.py:svc"
+description : "file: ./Solar Eclipse Classification.md"
+labels :
+  owner : regidancodes
+  project : solar_eclipse_classification
+include :
+- "*.py"
+python :
+  packages :
+    - xgboost
+    - scikit-learn
