@@ -138,7 +138,7 @@ conda env create -n ENVNAME --file environment.yml
 
 ```
 - Run the [notebook](https://github.com/Regidan-codes/ML-ZOOMCAMP2022/blob/main/ML_ZOOMCAMP_MIDTERM_PROJECT/Solar_Eclipse_Classification.ipynb)
-- Run [service.py](https://github.com/Regidan-codes/ML-ZOOMCAMP2022/blob/main/ML_ZOOMCAMP_MIDTERM_PROJECT/service.py) with updated tag from the repository
+- Run [service.py](https://github.com/Regidan-codes/ML-ZOOMCAMP2022/blob/main/ML_ZOOMCAMP_MIDTERM_PROJECT/service.py) with updated tag locally.
 - You can use the API by simply opening a browser to http://localhost:3000
 
 
