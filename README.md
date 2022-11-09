@@ -31,26 +31,26 @@
 **5. Deploying Machine Learning Models**
 
 * [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/05-deployment)
-* TBA
+* [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/05-deployment/homework.md)
 
 **5b. Bento ML**
 
-* [Module materials - TBA]()
-* TBA
+* [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-bentoml-production)
+* [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/07-bento-production/homework.md)
 
 **6. Decision Trees and Ensemble Learning**
 
 * [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/06-trees)
-* TBA
+* [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/06-trees/homework.md)
 
 **7. Midterm Project**
 
-* TBA
+* [Mid Term](https://github.com/Regidan-codes/ML-ZOOMCAMP2022/tree/main/ML_ZOOMCAMP_MIDTERM_PROJECT)
 
 **8. Neural Networks and Deep Learning**
 
 * [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/08-deep-learning)
-* TBA
+* [Homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/08-deep-learning/homework.md)
 
 **9. Serverless Deep Learning**
 
