@@ -59,7 +59,7 @@ What kind of flower is that?
 
 ## Setup
 
-Follow the instructions in [SETUP.md](./SETUP.md)  
+Follow the instructions in [Setup.md](./Setup.md)  
 
 ### Clone the repo
 Open a shell (e.g. Powershell) and execute:  
