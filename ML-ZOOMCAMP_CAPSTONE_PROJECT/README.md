@@ -54,7 +54,7 @@ What kind of flower is that?
   - Create gateway (Flask) image and Gradio
   - Create Dockerfile
   - Create AWS EC2 instance
-  - Create Huggingface spaces app
+  - Create Huggingface spaces app gradio web API
 - Documentation
 
 ## Setup
@@ -131,11 +131,11 @@ Is a shell with the development environment activated, run:
 `python train.py`  
 The best checkpoint is automatically selected and the model is saved as .h5 file.  
 
-## 2.- Production:
+## Production:
 
 The application 'Flower-Recognition' is a hugginface spaces app that
 - Ask the user to input any image from 5 classes mentioned
 - Predicts the probablities of varieties by sending a request to the gateway
 - Shows the probablities of all 5 classes in a cleaner UI
 
-You can test the cloud web app [# CLICK-HERE](https://huggingface.co/spaces/regidancodes/gradio-Flower-recognition-App)
+You can test the cloud web app - [CLICK-HERE](https://huggingface.co/spaces/regidancodes/gradio-Flower-recognition-App)
