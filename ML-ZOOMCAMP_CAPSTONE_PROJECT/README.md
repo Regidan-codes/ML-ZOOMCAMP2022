@@ -70,7 +70,6 @@ Go to https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
 Create a Kaggle account and click Download button.  
 The zip file actually contains 5 datasets, each one in a subdirectories.   
 So unzip the folder `Flower-Recognition` into the `data` folder of the repository.
-...
 
 ### Create the environment
 
@@ -98,6 +97,9 @@ To create the development environment and install dependencies, download environ
 conda env create -n ENVNAME --file environment.yml
 
 ```
+
+    Run app.py.
+    You can use the API by simply opening a browser to http://localhost:5000
 
 
 Please, note that the production/gateway and production/fron-end have their specific environments in order to keep these environments separated from the development environment and from each other.  
