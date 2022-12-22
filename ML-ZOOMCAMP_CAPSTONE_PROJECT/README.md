@@ -29,7 +29,7 @@ What kind of flower is that?
 - Docker
 - AWS EC2    
 
-[HUGGINGFACE SPACES.webm](https://user-images.githubusercontent.com/21258579/209125240-41d719bb-99c7-4d2c-94ca-5ce0c5f6655a.webm)
+[HUGGING-SPACES.webm](https://user-images.githubusercontent.com/21258579/209142491-bd0b1968-3f5e-4229-b681-c2d890e9ada0.webm)
 
 ### Development Plan: 
 - Setup environment
