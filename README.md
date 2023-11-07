@@ -55,12 +55,12 @@
 **9. Serverless Deep Learning**
 
 * [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless)
-* TBA
+* [Homework](https://github.com/Regidan-codes/ML-ZOOMCAMP2022/tree/main/ML_ZOOMCAMP_SERVERLESS_DL)
 
 **10. Kubernetes and TensorFlow Serving**
 
 * [Module materials](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes)
-* TBA
+* [Homework](https://github.com/Regidan-codes/ML-ZOOMCAMP2022/tree/main/ML_ZOOMCAMP_KUBERNETES)
 
 **11. KServe (optional)**
 
@@ -69,12 +69,4 @@
 
 **12. Capstone Project**
 
-* TBA
-
-**13. Article**
-
-* TBA
-
-**14. Third project (optional)**
-
-* TBA
+* [Link](https://github.com/Regidan-codes/ML-ZOOMCAMP2022/tree/main/ML-ZOOMCAMP_CAPSTONE_PROJECT)
